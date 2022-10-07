@@ -1,0 +1,23 @@
+---
+# ===================
+#     BLOCK POPUP
+# ===================
+# 1. A simple plugin to display a block name that player break or place in popup!
+# 2. If you see errors, report here: https://github.com/Henry12960/BlockPoup/issues/new
+# 3. Plugin made by Henry Thierry [HenryDM] 
+# 4. Henry's Website: https://github.com/Henry12960
+
+# ===================
+#      GENERAL
+# ===================
+# 1. You can use {block} to display block name and {line} to add a new line!
+# 2. You can use minecraft color codes in messages!
+
+break-popup: true
+place-popup: true
+
+block-popup-worlds: ["world", "survival"]
+
+break-popup-message: "§a+1 §6{block}"
+place-popup-message: "§c-1 §6{block}"
+...
