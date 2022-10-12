@@ -1,8 +1,8 @@
-## ⭐ • Better Join
+## 🧱 • Block Popup
 
 | Version | Status | Date | 
 | --- | --- | --- |
-| 1.0.0 | stable-dev | 12/10/2022 |
+| 1.0.0 | stable-alpha | 12/10/2022 |
 
 ---
 
